@@ -1,0 +1,2 @@
+# GA4CC
+GA4 Code
